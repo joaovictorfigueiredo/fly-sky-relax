@@ -1,0 +1,6 @@
+{
+  "name": "Voo Relaxante",
+  "description": "Jogo relaxante de voo multidimensional com 19 reinos, buracos negros com velocidade da luz, predadores cósmicos, skins temáticas, loja de duplicação, trilha Lo-Fi e salvamento de pontuações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
